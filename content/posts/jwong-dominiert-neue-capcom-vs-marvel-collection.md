@@ -7,7 +7,7 @@ draft: false
 Das Online Matchmaking von Capcoms neuste Retro-Kollektion wird aktuell von einem Spieler dominiert: Justin Wong. Der siebenfache Evo Gewinner in Marvel VS Capcom 2 dominiert aktuell die Ranglisten.
 
 ## "Putting the Fun in Refund"
-"MARVEL vs. CAPCOM Fighting Collection: Arcade Classics" ist am 12. September erschienen und bringt das heiß ersehnte Marvel VS. Capcom 2 endlich für moderne Plattformen raus.
+_MARVEL vs. CAPCOM Fighting Collection: Arcade Classics_ ist am 12. September erschienen und bringt das heiß ersehnte Marvel VS. Capcom 2 endlich für moderne Plattformen raus.
 Die Kollektion beinhaltet auch einen Online Modus mit verbessertem Rollback Netcode, und erfreut sich unter Fans aktuell großer Beliebtheit. Problematisch ist es nur, wenn Neulinge auf einmal gegen einen echten Champion antreten müssen.
 Das ist bei einer eher kleinen Community leider unausweichlich und so füllt sich die Steam Seite des Spiels mittlerweile mit lustigen Reviews und Memes rund um Justin Wong, der unter dem Nickname "Wazzler" die Spieler dominiert.
 
@@ -24,5 +24,5 @@ Einzeln, hat er das schon geschafft. Sowohl auf Steam, Playstation 4 und Nintend
 
 https://x.com/JWonggg/status/1835613055348363726
 
-"MARVEL vs. CAPCOM Fighting Collection: Arcade Classics" ist am 12. September digital für die Nintendo Switch, Playstation 4 und PC (Steam) erschienen. Eine physische Version für Switch (download Code in einer Box) und Playstation 4 folgt am 22. November 2024. Eine Xbox One Version ist für 2025 geplant.
+_MARVEL vs. CAPCOM Fighting Collection: Arcade Classics_ ist am 12. September digital für die Nintendo Switch, Playstation 4 und PC (Steam) erschienen. Eine physische Version für Switch (download Code in einer Box) und Playstation 4 folgt am 22. November 2024. Eine Xbox One Version ist für 2025 geplant.
 Weitere Infos gibt es auf [https://www.capcom-games.com](https://www.capcom-games.com/marvel-vs-capcom-fc/en-us/).
