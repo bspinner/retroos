@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://retroos.de/'
+languageCode = 'de-de'
+title = 'retroos - Retro Gaming Osnabrück'
+theme = 'ananke'
+

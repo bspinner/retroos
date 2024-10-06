@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 16 Sep 2024 21:08:40 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <title>retroos - Retro Gaming Osnabrück</title>
+    <link>https://retroos.de/</link>
+    <description>Recent content on retroos - Retro Gaming Osnabrück</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 16 Sep 2024 21:08:40 +0200</lastBuildDate><atom:link href="https://retroos.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Justin Wong Dominiert die neue MARVEL vs. CAPCOM Fighting Collection</title>
-      <link>//localhost:1313/posts/jwong-dominiert-neue-capcom-vs-marvel-collection/</link>
+      <link>https://retroos.de/posts/jwong-dominiert-neue-capcom-vs-marvel-collection/</link>
       <pubDate>Mon, 16 Sep 2024 21:08:40 +0200</pubDate>
-      <guid>//localhost:1313/posts/jwong-dominiert-neue-capcom-vs-marvel-collection/</guid>
-      <description>&lt;p&gt;Das Online Matchmaking von Capcoms neuste Retro-Kollektion wird aktuell von einem Spieler dominiert: Justin Wong. Der siebenfache Evo Gewinner in Marvel VS Capcom 2 dominiert aktuell die Ranglisten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;putting-the-fun-in-refund&#34;&gt;&amp;ldquo;Putting the Fun in Refund&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;MARVEL vs. CAPCOM Fighting Collection: Arcade Classics&amp;rdquo; ist am 12. September erschienen und bringt das heiß ersehnte Marvel VS. Capcom 2 endlich für moderne Plattformen raus.&#xA;Die Kollektion beinhaltet auch einen Online Modus mit verbessertem Rollback Netcode, und erfreut sich unter Fans aktuell großer Beliebtheit. Problematisch ist es nur, wenn Neulinge auf einmal gegen einen echten Champion antreten müssen.&#xA;Das ist bei einer eher kleinen Community leider unausweichlich und so füllt sich die Steam Seite des Spiels mittlerweile mit lustigen Reviews und Memes rund um Justin Wong, der unter dem Nickname &amp;ldquo;Wazzler&amp;rdquo; die Spieler dominiert.&lt;/p&gt;</description>
+      
+      <guid>https://retroos.de/posts/jwong-dominiert-neue-capcom-vs-marvel-collection/</guid>
+      <description>Das Online Matchmaking von Capcoms neuste Retro-Kollektion wird aktuell von einem Spieler dominiert: Justin Wong. Der siebenfache Evo Gewinner in Marvel VS Capcom 2 dominiert aktuell die Ranglisten.
+&amp;ldquo;Putting the Fun in Refund&amp;rdquo; &amp;ldquo;MARVEL vs. CAPCOM Fighting Collection: Arcade Classics&amp;rdquo; ist am 12. September erschienen und bringt das heiß ersehnte Marvel VS. Capcom 2 endlich für moderne Plattformen raus. Die Kollektion beinhaltet auch einen Online Modus mit verbessertem Rollback Netcode, und erfreut sich unter Fans aktuell großer Beliebtheit.</description>
     </item>
+    
   </channel>
 </rss>
