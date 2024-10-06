@@ -1,7 +1,0 @@
-languageCode = 'de-de'
-title = 'retroos'
-theme = 'ananke'
-
-[params]
-    date_format = "2. January 2006"
-
