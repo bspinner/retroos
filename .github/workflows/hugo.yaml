@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "${{ steps.pages.outputs.base_url }}/draft/" \
             --destination ./public/draft/
           cp index.html ./public/index.html
       - name: Upload artifact
