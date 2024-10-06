@@ -1,4 +1,4 @@
-baseURL = 'https://retroos.de/'
+baseURL = 'https://retroos.de/draft'
 languageCode = 'de-de'
 title = 'retroos - Retro Gaming Osnabrück'
 theme = 'ananke'
