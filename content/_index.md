@@ -1,8 +1,10 @@
 ---
-title: ""
+title: "retroOS"
 date: 2024-10-06T19:30:54+02:00
 draft: false
 ---
 
 Wir sind die retroOS. Eine Community die sich rund um den Erhalt der Videospielkultur kümmert.
-Aktuell treffen wir uns einmal im Monat beim Retro Gaming Treff in der Stadtbibliothek Osnabrück.
+Wir berichten über Neuigkeiten in der Retro Gaming Szenen und über Retro Veranstaltungen in Deutschland.
+
+Außerdem organisieren wir einen monatlichen [Retro Gaming Treff]({{< ref "/treff.md" >}}) in der Stadtbibliothek Osnabrück, bei dem wir gemeinsam zocken und uns über unser Hobby austauschen.
