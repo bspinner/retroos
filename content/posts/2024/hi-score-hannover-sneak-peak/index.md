@@ -2,6 +2,7 @@
 title: "Sneak Peak im Hi-Score in Hannover"
 date: 2024-10-08T22:11:22+02:00
 draft: false
+summary: "Unser Ersteindruck zum neuen Erlebnissmuseum für Videospiele"
 ---
 
 Was lange währt, wird endlich gut. So kann man den Umzug des [Hi-Score](https://hi-score.org/) in Hannover in eine neue Location zusammenfassen.
