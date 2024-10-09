@@ -1,5 +1,5 @@
 ---
-title: "Retro Treff"
+title: "Retro Gaming Treff"
 date: 2024-10-07T10:34:46+02:00
 draft: false
 ---
