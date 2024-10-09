@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Artikel"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
   name = "Retro Gaming Treff"
   pageRef = "treff"
-  weight = 10
+  weight = 20
 
 #[[main]]
 #  name = "Parent"
