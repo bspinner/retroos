@@ -10,7 +10,7 @@ Das Erlebnismuseum für Videospiele startete zunächst im ehemaligen Galeria Kau
 
 ## Ausstellung
 
-Rund 300 Exponate aus den 70ern bis zur Gegenwart sind im neu gestalteten Hi-Score ausgestellt. Darunter befinden sich etliche Konsolen und Arcade Automaten, an denen Besucher nach Herzenslust spielen können. Alle Automaten sind auf "Free Play" eingestellt, d.h. anders als üblich, müsst ihr natürlich keine weiteren Münzen einwerfen um zu spielen. Das Museum ist nach Jahrzehnten aufgeteilt und führt euch von der Anfangszeit der Videospiele in den 70ern weiter durch die Zeit bis hin zur Gegenwart. So können sich Besucher vom Magnavox Odyssey (die erste Videospielkonsole), über das Super Nintendo, die Playstation 1 und Xbox, bis hin zu den modernsten Konsolen entlang hangeln. 
+Rund 300 Exponate aus den 70ern bis zur Gegenwart sind im neu gestalteten Hi-Score ausgestellt. Darunter befinden sich etliche Konsolen und Arcade Automaten, an denen Besucher nach Herzenslust spielen können. Alle Automaten sind auf "Free Play" eingestellt, d.h. anders als üblich, müsst ihr natürlich keine weiteren Münzen einwerfen um zu spielen. Das Museum ist nach Jahrzehnten aufgeteilt und führt euch von der Anfangszeit der Videospiele in den 70ern weiter durch die Zeit bis hin zur Gegenwart. So können sich Besucher vom Magnavox Odyssey (die erste Videospielkonsole), über das Super Nintendo, die PlayStation 1 und Xbox, bis hin zu den modernsten Konsolen entlang hangeln. 
 
 Uns wurde beim Event gesagt, dass die Ausstellung zu 95% fertig sei. Bei unserem Rundgang waren einige Bildschirme noch dunkel. Insbesondere bei Arcade Automaten bleiben notwendige Reparaturen nicht aus. Erst recht nicht, wenn es sich um größere interaktive Automaten handelt, bei denen viele bewegliche Teile involviert sind.
 
@@ -24,7 +24,7 @@ Die Arcade Auswahl des Hi-Score ist durchaus beeindruckend und deckt die ganze B
 <img src="gallery/C64.jpg" class="grid-w33" />
 <img src="gallery/90s Gaming.jpg" class="grid-w33" />
 <img src="gallery/Point Blank.jpg" class="grid-w33" />
-<img src="gallery/Playstation 1.jpg" class="grid-w33" />
+<img src="gallery/PlayStation 1.jpg" class="grid-w33" />
 <img src="gallery/Fighting Mania.jpg" class="grid-w33" />
 <img src="gallery/2000er Gaming.jpg" class="grid-w33" />
 <img src="gallery/2010-Modern.jpg" class="grid-w33" />

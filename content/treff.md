@@ -17,7 +17,7 @@ Freitag, 25. Oktober\
 [Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
 
 **Vorab aufgebaute Konsolen am 25.10.**
-- Playstation 2 Slim
+- PlayStation 2 Slim
 - Atari 2600+ (Remake von 2023)
 - Amiga CD32
 

@@ -31,7 +31,7 @@ Zusätzlich zu den alten Titeln, wurde die Variante "Tetris Time Warp" entwickel
 
 Die Auswahl der Spiele beschränkt sich insbesondere auf die Titel von Bullet-Proof Software, dem Entwickler der Maßgeblich daran beteiligt war die erste Version von Tetris von der Sowjetunion zu lizensieren und für den internationalen Markt für Konsolen zu veröffentlichen. Die wohl bekanntesten Varianten, Tetris für den Game Boy und das NES von Nintendo, fehlen leider. Letztere wäre besonders interessant, da diese Version auch heute noch auf der [Classic Tetris World Championship](https://thectwc.com/) gespielt wird.
 
-Tetris Forever erscheint noch dieses Jahr für PC (Steam, GOG), Nintendo Switch, Playstation 4 / 5, Xbox One und Series Kononsolen.
+Tetris Forever erscheint noch dieses Jahr für PC (Steam, GOG), Nintendo Switch, PlayStation 4 / 5, Xbox One und Series Konsolen.
 Weitere Informationen findet ihr auf der [offiziellen Website](https://www.digitaleclipse.com/games/tetrisforever).
 
 {{< gallery >}}

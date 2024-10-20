@@ -20,9 +20,9 @@ Wong ist dabei selbst sichtlich amüsiert und reagiert etwas ungläubig auf Twit
 https://x.com/JWonggg/status/1834795046010282075
 
 Befeuert von den Memes hat sich Wong zudem ein neues Ziel gesetzt: Platz 1 auf der Rangliste in Marvel VS Capcom 2 auf allen Plattformen zeitgleich erreichen.
-Einzeln, hat er das schon geschafft. Sowohl auf Steam, Playstation 4 und Nintendo Switch, stand der "Wazzler" bereits an der Spitze. Während er jedoch zuletzt an der Platzierung auf der Switch arbeitete, machte ihm ein anderer Spieler den Spitzenplatz auf der Playstation streitig.
+Einzeln, hat er das schon geschafft. Sowohl auf Steam, PlayStation 4 und Nintendo Switch, stand der "Wazzler" bereits an der Spitze. Während er jedoch zuletzt an der Platzierung auf der Switch arbeitete, machte ihm ein anderer Spieler den Spitzenplatz auf der PlayStation streitig.
 
 https://x.com/JWonggg/status/1835613055348363726
 
-_MARVEL vs. CAPCOM Fighting Collection: Arcade Classics_ ist am 12. September digital für die Nintendo Switch, Playstation 4 und PC (Steam) erschienen. Eine physische Version für Switch (download Code in einer Box) und Playstation 4 folgt am 22. November 2024. Eine Xbox One Version ist für 2025 geplant.
+_MARVEL vs. CAPCOM Fighting Collection: Arcade Classics_ ist am 12. September digital für die Nintendo Switch, PlayStation 4 und PC (Steam) erschienen. Eine physische Version für Switch (download Code in einer Box) und PlayStation 4 folgt am 22. November 2024. Eine Xbox One Version ist für 2025 geplant.
 Weitere Infos gibt es auf [https://www.capcom-games.com](https://www.capcom-games.com/marvel-vs-capcom-fc/en-us/).
