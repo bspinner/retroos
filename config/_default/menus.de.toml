@@ -16,9 +16,14 @@
   weight = 10
 
 [[main]]
+  name = "Showroom"
+  pageRef = "showroom"
+  weight = 20
+
+[[main]]
   name = "Retro Gaming Treff"
   pageRef = "treff"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
