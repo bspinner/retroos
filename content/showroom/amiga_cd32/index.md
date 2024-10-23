@@ -11,7 +11,7 @@ Bis dahin war der Hersteller vor allem für Heimcomputer wie _C64_ und _Amiga 50
 Erste Gehversuche im Segment der Wohnzimmer-orientierten Multimedia-Geräte unternahmen sie zwar bereits mit dem _CDTV_, diese blieben aber weitesgehend unbemerkt.
 
 Der Amiga CD32 basierte auf der Hardware des _Amiga 1200_, unterschied sich jedoch in wesentlichen Punkten, um einem klaren Fokus auf Gaming gerecht zu werden:
-Das Gehäuse kam damals nicht im üblichen Heimcomputer-Beige, sondern dunklen Grauton daher.
+Das Gehäuse kam damals nicht im üblichen Heimcomputer-Beige sondern einem dunklen Grauton daher.
 Die integrierte Tastatur entfiel und damit auch Texteingabe als Spieldesignelement.
 Maus und Zwei-Tasten-Joystick wurden durch Joypad bzw. Controller ersetzt, welcher sieben Aktionstasten besaß.
 
