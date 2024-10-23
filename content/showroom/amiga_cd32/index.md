@@ -24,8 +24,8 @@ Als Speichermedium für Spielstände stand ein 1 KB kleiner Flash-Speicher zur V
 Schlussendlich reihte sich der Amiga CD32 bei den gescheiterten Konsolen ein.
 Neben mutmaßlich fehlendem Marketingbudget beim kurze Zeit später insolventen Hersteller Commodore, scheiterte die Konsole wohl auch an der bereits etablierten starken Konkurrenz.
 Wenige Monate vor dem CD32 erschien Segas _Mega CD_ in Europa. Und im Vorjahr kam Nintendos Super Nintendo auf den Markt. Und beide Hersteller hatten bzw. haben eine Gaming-orientierte Fanbase.
-Zwar gab es auch eine große Amiga-Community - diese hatte aber nur sehr bedingt Interesse an reinen Spielekonsolen.
-Für manche war die Konsole leidglich ein beschnittener Amiga 1200 - und stand dieser bereits daheim, gab es aus Gaming-Perspektive kaum Gründe, zusätzlich einen CD32 anzuschaffen.
+Zwar gab es auch eine große Amiga-Community – diese hatte aber nur sehr bedingt Interesse an reinen Spielekonsolen.
+Für manche war die Konsole leidglich ein beschnittener Amiga 1200 – und stand dieser bereits daheim, gab es aus Gaming-Perspektive kaum Gründe, zusätzlich einen CD32 anzuschaffen.
 Denn bei CD32-Spielen handelte es sich meist um einfachste Umsetzungen bereits existierender Amiga-Spiele, welche die technischen Möglichkeiten der neuen Plattform nicht spielerisch-sinnvoll ausnutzten.
 
-Am 29. April 1994, rund siebeneinhalb Monate nach Release, meldete Commodore Insolvenz an - und der Amiga CD32 war Geschichte.
+Am 29. April 1994, rund siebeneinhalb Monate nach Release, meldete Commodore Insolvenz an – und der Amiga CD32 war Geschichte.
