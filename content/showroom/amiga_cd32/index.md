@@ -28,4 +28,4 @@ Zwar gab es auch eine große Amiga-Community - diese hatte aber nur sehr bedingt
 Für manche war die Konsole leidglich ein beschnittener Amiga 1200 - und stand dieser bereits daheim, gab es aus Gaming-Perspektive kaum Gründe, zusätzlich einen CD32 anzuschaffen.
 Denn bei CD32-Spielen handelte es sich meist um einfachste Umsetzungen bereits existierender Amiga-Spiele, welche die technischen Möglichkeiten der neuen Plattform nicht spielerisch-sinnvoll ausnutzten.
 
-Rund siebeneinhalb Monate nach Release, meldete Commodore am 29. April 1994 Insolvenz an - und der Amiga CD32 war Geschichte.
+Am 29. April 1994, rund siebeneinhalb Monate nach Release, meldete Commodore Insolvenz an - und der Amiga CD32 war Geschichte.
