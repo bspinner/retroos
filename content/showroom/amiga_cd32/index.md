@@ -22,11 +22,10 @@ Zum Beispiel erhielt die CD32-Version von _Simon the Sorcerer_ eine Sprachausgab
 Als Speichermedium für Spielstände stand ein 1 KB kleiner Flash-Speicher zur Verfügung.
 
 Schlussendlich reihte sich der Amiga CD32 bei den gescheiterten Konsolen ein.
-Neben mutmaßlich fehlendem Marketingbudget beim wenig später insolventen Hersteller Commodore, scheiterte die Konsole wohl auch an der bereits etablierten starken Konkurrenz.
-Wenige Monate vor dem CD32 erschien Segas _Mega CD_ in Europa, welche zwar technisch in mancher Hinsicht unterlegen war, aber bereits mit einer Fanbase starten konnte.
-Zwar hatte der Amiga auch bereits damals eine Fanbase, jedoch handelte es sich um eine etwas andere Zielgruppe.
-Für manche stand das Spielen nie im Vordergrund sondern war nur Beiwerk eines Heimcomputers. Für andere war die Konsole nur ein beschnittener Amiga 1200, den sie bereits zuhause hatten.
-Auch die erschienenen CD32-Spiele lieferten kaum Anschaffungsgründe: meist handelte es sich um einfachste Umsetzungen bereits existierender Amiga-Spiele,
-ohne die technischen Möglichkeiten der neuen Plattform spielerisch-sinnvoll auszunutzen.
+Neben mutmaßlich fehlendem Marketingbudget beim kurze Zeit später insolventen Hersteller Commodore, scheiterte die Konsole wohl auch an der bereits etablierten starken Konkurrenz.
+Wenige Monate vor dem CD32 erschien Segas _Mega CD_ in Europa. Und im Vorjahr kam Nintendos Super Nintendo auf den Markt. Und beide Hersteller hatten bzw. haben eine Gaming-orientierte Fanbase.
+Zwar gab es auch eine große Amiga-Community - diese hatte aber nur sehr bedingt Interesse an reinen Spielekonsolen.
+Für manche war die Konsole leidglich ein beschnittener Amiga 1200 - und stand dieser bereits daheim, gab es aus Gaming-Perspektive kaum Gründe, zusätzlich einen CD32 anzuschaffen.
+Denn bei CD32-Spielen handelte es sich meist um einfachste Umsetzungen bereits existierender Amiga-Spiele, welche die technischen Möglichkeiten der neuen Plattform nicht spielerisch-sinnvoll ausnutzten.
 
-Die letzte Hoffnung auf Erfolg für den CD32 verblasste wohl endgültig, als Sony mit der PlayStation das Zeitalter der 3D-Grafik bei Konsolen einläutete.
+Rund siebeneinhalb Monate nach Release, meldete Commodore am 29. April 1994 Insolvenz an - und der Amiga CD32 war Geschichte.
