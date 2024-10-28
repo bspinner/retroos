@@ -13,7 +13,7 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit:**\
-Freitag, 22. November\
+Freitag, 22. November 2024\
 18:00 – 20:30
 
 **Ort:**\
