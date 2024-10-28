@@ -12,11 +12,11 @@ Einige Konsolen/Computer werden bereitgestellt, ihr seid aber auch eingeladen, e
 Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
-**Datum und Uhrzeit:**\
+**Datum und Uhrzeit**\
 Freitag, 22. November 2024\
 18:00 – 20:30
 
-**Ort:**\
+**Ort**\
 [Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
 
 **Von uns zum Spielen bereitgestellte Systeme**
