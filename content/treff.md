@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2024-10-28T00:34:46+02:00
+date: 2024-10-28T00:34:46+01:00
 draft: false
 ---
 
