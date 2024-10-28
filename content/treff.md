@@ -4,7 +4,10 @@ date: 2024-10-28T00:34:46+02:00
 draft: false
 ---
 
-Einmal im Monat möchten wir uns in der Stadtbibliothek Osnabrück treffen, um gemeinsam Retro Games zu zocken. Es sind Fans von alten Videospielen jeden Alters eingeladen, unabhängig davon, ob ihr wahre Retro-Experten oder gerade am Beginn eurer Reise in die Vergangenheit der Videospiele seid. Einige Konsolen werden bereitgestellt, ihr seid aber auch eingeladen, eigene Systeme, Spiele und Themen rund ums Retro Gaming mitzubringen.
+Einmal im Monat treffen wir uns in der Stadtbibliothek Osnabrück, um gemeinsam Retro Games zu zocken.
+Es sind Fans von alten Videospielen jeden Alters eingeladen, unabhängig davon,
+ob ihr wahre Retro-Experten oder gerade am Beginn eurer Reise in die Vergangenheit der Videospiele seid.
+Einige Konsolen/Computer werden bereitgestellt, ihr seid aber auch eingeladen, eigene Systeme, Spiele und Themen rund ums Retro Gaming mitzubringen.
 
 Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
