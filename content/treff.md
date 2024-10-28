@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2024-10-07T10:34:46+02:00
+date: 2024-10-28T00:34:46+02:00
 draft: false
 ---
 
@@ -10,19 +10,13 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit:**\
-Freitag, 25. Oktober\
+Freitag, 22. November\
 18:00 – 20:30
 
 **Ort:**\
 [Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
 
-**Vorab aufgebaute Konsolen am 25.10.**
-- Atari 2600+ (Remake von 2023)
-- Amiga CD32
-- Super Nintendo (SNES)
-- PlayStation One
-- PlayStation 2 Slim
-- Nintendo Gamecube
-- Nintendo Switch (mit Retro Spielen)
+**Von uns zum Spielen bereitgestellte Systeme**
+- steht noch nicht fest :)
 
-[Offizielle Ankündigung](https://stadtbibliothek.osnabrueck.de/erleben#/events/a8e5d8d3-2ba3-4cff-a5ef-d2a9a4324895)
+[Ankündigung der Stadtbibliothek](https://stadtbibliothek.osnabrueck.de/erleben#/events/a8e5d8d3-2ba3-4cff-a5ef-d2a9a4324895)
