@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2024-10-28T00:34:46+01:00
+date: 2024-11-23T03:29:46+01:00
 draft: false
 ---
 
@@ -13,7 +13,7 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit**\
-Freitag, 22. November 2024\
+Freitag, 20. Dezember 2024\
 18:00 – 20:30
 
 **Ort**\
@@ -21,5 +21,3 @@ Freitag, 22. November 2024\
 
 **Von uns zum Spielen bereitgestellte Systeme**
 - steht noch nicht fest :)
-
-[Ankündigung der Stadtbibliothek](https://stadtbibliothek.osnabrueck.de/erleben#/events/a8e5d8d3-2ba3-4cff-a5ef-d2a9a4324895)
