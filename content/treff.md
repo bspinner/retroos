@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2024-11-23T03:29:46+01:00
+date: 2024-12-27T17:43:46+01:00
 draft: false
 ---
 
@@ -13,11 +13,18 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit**\
-Freitag, 20. Dezember 2024\
+Freitag, 24. Januar 2025\
 18:00 – 20:30
 
 **Ort**\
 [Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
 
+**Thema**\
+Neben den üblichen Konsolen, möchten wir bei unserem Treff in Januar gerne ein paar Game Boy Spiele im Multiplayer spielen.
+Daher bitten wir euch, euren Game Boy (Original, Color, Advance) sowie Spiele mitzubringen, sofern vorhanden.
+
 **Von uns zum Spielen bereitgestellte Systeme**
-- steht noch nicht fest :)
+- Game Boy
+- SNES
+- Sega Saturn
+- Sega Dreamcast
