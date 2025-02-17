@@ -13,18 +13,8 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit**\
-Freitag, 24. Januar 2025\
+Freitag, 21. Februar 2025\
 18:00 – 20:30
 
 **Ort**\
 [Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
-
-**Thema**\
-Neben den üblichen Konsolen, möchten wir bei unserem Treff in Januar gerne ein paar Game Boy Spiele im Multiplayer spielen.
-Daher bitten wir euch, euren Game Boy (Original, Color, Advance) sowie Spiele mitzubringen, sofern vorhanden.
-
-**Von uns zum Spielen bereitgestellte Systeme**
-- Game Boy
-- SNES
-- Sega Saturn
-- Sega Dreamcast
