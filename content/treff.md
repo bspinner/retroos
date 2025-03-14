@@ -13,8 +13,10 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit**\
-Freitag, 21. Februar 2025\
+Freitag, 21. März 2025\
 18:00 – 20:30
 
+**Neu: Der Retro Gaming Treff zieht um. Statt wie gewohnt im Sprachenbereich, treffen wir uns ab März im Lesecafé der Stadtbibliothek Osnabrück.**
+
 **Ort**\
-[Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Sprachenbereich](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
+[Stadtbibliothek am Markt, Markt 1, 49074 Osnabrück - Lesecafé](https://www.openstreetmap.org/node/268428092#map=19/52.277116/8.041998)
