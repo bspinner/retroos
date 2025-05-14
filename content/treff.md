@@ -13,7 +13,7 @@ Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
 **Datum und Uhrzeit**\
-Freitag, 25. April 2025\
+Freitag, 16. Mai 2025\
 18:00 – 20:30
 
 **Bitte beachtet: Der Retro Gaming Treff findet nun im Lesecafé der Stadtbibliothek Osnabrück statt.**
