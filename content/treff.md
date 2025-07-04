@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2025-07-04T23:45:00+01:00
+date: 2025-07-04T23:45:00+02:00
 draft: false
 ---
 
