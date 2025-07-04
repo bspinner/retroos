@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming Treff"
-date: 2024-12-27T17:43:46+01:00
+date: 2025-07-04T23:45:00+01:00
 draft: false
 ---
 
@@ -12,9 +12,8 @@ Einige Konsolen/Computer werden bereitgestellt, ihr seid aber auch eingeladen, e
 Der Eintritt ist frei. Es ist keine Anmeldung erforderlich.
 
 ## Nächster Termin
-**Datum und Uhrzeit**\
-Freitag, 16. Mai 2025\
-18:00 – 20:30
+**Datum und Uhrzeit**
+siehe [Veranstaltungskalender](https://stadtbibliothek.osnabrueck.de/erleben#/?q=retro) der Stadtbibliothek Osnabrück. :)
 
 **Bitte beachtet: Der Retro Gaming Treff findet nun im Lesecafé der Stadtbibliothek Osnabrück statt.**
 
